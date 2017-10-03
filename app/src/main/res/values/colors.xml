@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#4BAE4F</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray_light">#b7b5b5</color>
+    <color name="gray_dark_text_checkbox">#8b000000</color>
+    <color name="gray">#919090</color>
+    <color name="gray_dark">#545454</color>
+    <color name="gray_lighter">#e1dbdb</color>
+    <color name="gray_transparent">#6f252121</color>
+    <color name="gray_light_transparent">#3c252121</color>
+    <color name="gray_background">#f1f1f1</color>
+    <color name="yellow">#cfb700</color>
+    <color name="red">#F34235</color>
+    <color name="colorAccentDark">#39833c</color>
+    <color name="colorPrimaryBackground">#E9DECA</color>
+</resources>
